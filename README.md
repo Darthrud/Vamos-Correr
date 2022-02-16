@@ -1,2 +1,2 @@
 # Vamos-Correr
-nada demais aqui
+nada demais aqui, use apenas como base :)
